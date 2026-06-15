@@ -19,6 +19,9 @@ Cybercriminals often rely on trust, fear, or curiosity to deceive their victims.
 
 Because human error is difficult to eliminate completely, social engineering remains one of the most effective forms of cyberattack.
 
+![How Social Engineering Works](images/social-engineering-cycle.jpeg)
+
+*Figure 1: Basic Social Engineering Attack Process*
 ---
 
 # 2. Phishing Attack
@@ -30,6 +33,10 @@ Phishing is a type of social engineering attack in which criminals pretend to be
 ## How It Works
 
 The attacker sends a message that appears genuine and encourages the victim to click a link, open an attachment, or provide personal details. In many cases, victims unknowingly reveal passwords, banking information, or other confidential data.
+
+![Phishing Attack Process](images/phishing-process.jpeg)
+
+*Figure 2: Phishing Attack Workflow*
 
 ## Impact
 
@@ -64,6 +71,10 @@ Pretexting is a social engineering method where attackers create a believable st
 ## How It Works
 
 The attacker may pretend to be a bank representative, technical support employee, or another trusted person. By gaining the victim's confidence, they persuade them to share sensitive information that should remain private.
+
+![Pretexting Attack Cycle](images/pretexting-cycle.jpeg)
+
+*Figure 3: Pretexting Attack Cycle*
 
 ## Impact
 
@@ -111,7 +122,9 @@ Baiting attacks can cause:
 A common scenario involves an employee finding an unknown USB drive and connecting it to an office computer, unknowingly allowing malware to spread across the network.
 
 ## Prevention Methods
+![Baiting Attack Prevention](images/baiting-prevention.jpeg)
 
+*Figure 4: Prevention of Baiting Attacks*
 Some effective preventive measures include:
 
 * Never using unknown USB devices
